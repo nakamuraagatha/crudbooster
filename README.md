@@ -1,5 +1,7 @@
 # This Package Fork from 
-[![Crudbooster](https://github.com/crocodic-studio/crudbooster)]
+
+Laravel Export HTML to Excel by [Crudbooster](https://github.com/crocodic-studio/crudbooster)
+
 [![Code Climate](https://codeclimate.com/github/crocodic-studio/crudbooster/badges/gpa.svg)](https://codeclimate.com/github/crocodic-studio/crudbooster)
 [![Latest Stable Version](https://poser.pugx.org/crocodicstudio/crudbooster/v/stable)](https://packagist.org/packages/crocodicstudio/crudbooster)
 [![Total Downloads](https://poser.pugx.org/crocodicstudio/crudbooster/downloads)](https://packagist.org/packages/crocodicstudio/crudbooster)
